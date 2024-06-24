@@ -1,0 +1,24 @@
+### Which packages to bring back after uninstalling homebrew
+- ca-certificates?
+- cocoapods
+- fastlane
+- ffmpeg?
+- git
+- gradle?
+- jenv?
+- mariadb?
+- maven?
+- openjdk?
+- openssl@1.1?
+- pcre?
+- pcre2?
+- pkg-config?
+- ruby
+- terminal-notifier?
+- youtube-dl?
+- yq?
+- zsh-syntax-highlighting?
+- AWS-CLI
+- MYSQL
+- REMOTEDESKTOP
+- MAN????
